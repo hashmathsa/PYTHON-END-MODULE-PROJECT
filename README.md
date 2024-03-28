@@ -1,6 +1,8 @@
-
-       DATASET: https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link
-                                                   INTRODUCTION
+DATA SET:[abc_company.csv](https://github.com/hashmathsa/PYTHON-END-PROJECT/files/14785518/abc_company.csv)
+ https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link
+DATASET: https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link
+ABOUT DATASET
+        INTRODUCTION
         In this culminating project, we will be analyzing a dataset provided by ABC company, which consists of 458 rows and 9 columns. The dataset contains information about employees across various teams within 
         the company. Our objective is to prepare a comprehensive report detailing insights gained from the data analysis and presenting our findings graphically:
         1.	Preprocessing the Dataset: We will begin by cleaning and preprocessing the dataset to ensure data consistency and integrity. This may involve handling missing values, dealing with duplicate records,
