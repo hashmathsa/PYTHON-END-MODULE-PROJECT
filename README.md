@@ -34,6 +34,8 @@ ABOUT DATASET
          first few rows of the modified dataset.The code utilizes the np.random.randint() function from the NumPy library to replace the values in the "height" column of a DataFrame with random integers 
          between 150 and 180, ensuring data consistency and integrity before further analysis.
          TASKS
+
+         
          1.Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees data isight 
          In this analysis, we aim to understand the distribution of employees across different teams within the ABC company dataset. By examining the proportion of employees in each team relative to the total
          number of employees, we gain insights into the workforce distribution and team composition within the company. This information can help management make informed decisions regarding resource allocation, 
@@ -70,6 +72,8 @@ ABOUT DATASET
          Orlando Magic: 3.06%
          Minnesota Timberwolves: 3.06%
          These percentages provide insights into the workforce composition and distribution within the organization, facilitating resource allocation, team management, and strategic decision-making.
+        
+         
          2.	Segregate employees based on their positions within the company
          To segregate employees based on their positions within the company, we can group the dataset by the "Position" column and then analyze the distribution of employees across different positions. 
          This allows us to understand the composition of the workforce in terms of job roles and responsibilities. Additionally, we can calculate the count or percentage of employees holding each position 
@@ -84,6 +88,8 @@ ABOUT DATASET
          employees Centers (C): 79 employees 
          This breakdown provides insights into the composition of the workforce in terms of different job roles or positions held within the company. Such segmentation is essential for understanding 
          the distribution of responsibilities, skill sets, and expertise across various positions, thereby facilitating effective human resource management and organizational planning.
+        
+         
          3.	Identify the predominant age group among employees.
          Identifying the predominant age group among employees, particularly within the 20-30 age range, is essential for gaining insights into the demographic composition of the workforce
          and tailoring organizational strategies accordingly. This demographic profile indicates a considerable segment of the company's employees are in the early to mid-career stages, which can 
@@ -93,6 +99,8 @@ ABOUT DATASET
          bracket, ensuring their long-term engagement and growth within the organization. Additionally, understanding the age demographics aids in refining recruitment strategies to attract diverse talent
          pools and aligning organizational goals with the aspirations and expectations of employees across different age groups. Overall, acknowledging the predominant age group among employees facilitates
          effective workforce management, fosters employee satisfaction, and contributes to the company's long-term success and sustainability.
+         
+         
          4.	Discover which team and position have the highest salary expenditure
          The analysis of salary expenditure across teams and positions reveals valuable insights into the financial dynamics within the company. Firstly, the data indicates that the 
          Cleveland Cavaliers team has the highest salary expenditure among all teams, suggesting that it either employs a higher number of individuals or compensates its employees more 
@@ -104,6 +112,8 @@ ABOUT DATASET
          which positions contribute the most to salary expenses, the company can tailor its talent acquisition and retention strategies accordingly, ensuring that compensation levels remain competitive 
          while aligning with the organization's overall financial objectives. Additionally, this insight may prompt further exploration into the factors influencing salary differentials across positions,
          facilitating discussions around pay equity, performance-based incentives, and talent development initiatives to optimize human capital management practices.
+        
+         
          5.	Investigate if there's any correlation between age and salary, and represent it visually.
          To investigate the correlation between age and salary, a scatter plot can be utilized to visually represent the relationship between these two variables. Each data point on the scatter plot
          represents an employee's age and corresponding salary. By observing the pattern of the scatter plot, we can discern whether there is a positive, negative, or no correlation between age and 
@@ -112,6 +122,8 @@ ABOUT DATASET
          negative correlation (as age increases, salary tends to decrease). A coefficient near 0 indicates little to no linear correlation between the two variables. Visualizing the correlation 
          between age and salary and interpreting the correlation coefficient will provide insights into whether there is a discernible relationship between these two factors among the employees in the 
          dataset. This analysis can inform decision-making processes related to salary structures, employee compensation, and workforce planning strategies within the organization.
+        
+         
          CONCLUSION 
          Upon further analysis, it becomes apparent that the distribution of employees across teams reflects the company's operational structure and possibly its strategic focus.
          Teams like the New Orleans Pelicans, with higher proportions of employees, might indicate a larger department or a team with diverse functions. Conversely, teams with lower representation, 
